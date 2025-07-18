@@ -75,7 +75,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print "\x1b[0;31m⚔════════════════════════☠════════════════════════⚔"
+print ("\x1b[0;31m⚔════════════════════════☠════════════════════════⚔")
 print  """\x1b[0;31m [¤] \x1b[0;31mKU SO DHAWOW\x1b[0;31m  \033[1;96m   
 \033[1;96m[¤] \x1b[0;31mTelegram : @YahyeAbdirahman\x1b[1;96m  
 \033[1;93m[¤] \x1b[0;31mFACEBOOK : fikrad0\x1b[1;96m  
